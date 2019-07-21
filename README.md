@@ -1,0 +1,2 @@
+# text_classification_lstm_attention
+使用tensorflow实现lstm+attention进行文本分类
